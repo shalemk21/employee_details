@@ -11,4 +11,5 @@ if __name__ == "__main__":
     salary=sys.argv[4]
 
     print("\nEmployee Details:\n")
+    print("-----------------------------")
     print(employee_details(name,employee_id,department,salary))
